@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Final Year student @ NUS, studying Computer Science
+🔭 Software Engineer, builder at heart
 
 🏗️ I love building software
 
