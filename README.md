@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer, builder at heart
+🔭 Newly minted software engineer
 
 🏗️ I love building software
 
